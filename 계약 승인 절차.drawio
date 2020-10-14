@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T09:25:22.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="1bNv0p6EUIldZBgPkWed" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T09:38:46.825Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="OMQMHSTT1Pyry0kFSVqU" version="13.7.9" type="github">
   <diagram id="d6fL0c8MtKtCZylyciFx" name="Page-1">
     <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4hsJ4999k-jfnIjJFVoq-14" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#ffffff;fillColor=none;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290.5" width="139" height="159.5" as="geometry" />
+        </mxCell>
         <mxCell id="NO5nKOySht2xLh2tTlxy-17" value="전자계약서 작성" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="278" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -16,13 +19,13 @@
             <mxPoint x="364" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NO5nKOySht2xLh2tTlxy-20" value="본부장, 대표" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="114" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="NO5nKOySht2xLh2tTlxy-20" value="본부장" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="119.63" y="314.25" width="80" height="32" as="geometry" />
         </mxCell>
         <mxCell id="NO5nKOySht2xLh2tTlxy-21" value="고객" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="278" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NO5nKOySht2xLh2tTlxy-22" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NO5nKOySht2xLh2tTlxy-17" target="NO5nKOySht2xLh2tTlxy-20" edge="1">
+        <mxCell id="NO5nKOySht2xLh2tTlxy-22" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NO5nKOySht2xLh2tTlxy-17" target="4hsJ4999k-jfnIjJFVoq-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="124" y="280" as="sourcePoint" />
             <mxPoint x="174" y="230" as="targetPoint" />
@@ -35,9 +38,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NO5nKOySht2xLh2tTlxy-24" value="조건 승인 필요" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160.25" y="260" width="79.75" height="24" as="geometry" />
+          <mxGeometry x="193.75" y="276" width="79.75" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="NO5nKOySht2xLh2tTlxy-25" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NO5nKOySht2xLh2tTlxy-20" target="NO5nKOySht2xLh2tTlxy-21" edge="1">
+        <mxCell id="NO5nKOySht2xLh2tTlxy-25" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4hsJ4999k-jfnIjJFVoq-14" target="NO5nKOySht2xLh2tTlxy-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="104" y="450" as="sourcePoint" />
             <mxPoint x="154" y="400" as="targetPoint" />
@@ -71,7 +74,7 @@
           <mxGeometry x="335" y="466" width="46" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NO5nKOySht2xLh2tTlxy-33" value="승인&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%EC%A1%B0%EA%B1%B4%20%EC%8A%B9%EC%9D%B8%20%EC%97%86%EC%9D%8C%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22411%22%20y%3D%22184%22%20width%3D%2290%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="232" y="330" width="46" height="25" as="geometry" />
+          <mxGeometry x="220" y="330" width="46" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NO5nKOySht2xLh2tTlxy-42" value="계약서 승인 Flow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="114" y="30" width="126" height="30" as="geometry" />
@@ -98,18 +101,19 @@
             <mxPoint x="184" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hsJ4999k-jfnIjJFVoq-4" value="" style="curved=1;endArrow=classic;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NO5nKOySht2xLh2tTlxy-20" target="NO5nKOySht2xLh2tTlxy-18">
+        <mxCell id="4hsJ4999k-jfnIjJFVoq-4" value="" style="curved=1;endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4hsJ4999k-jfnIjJFVoq-14" target="NO5nKOySht2xLh2tTlxy-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="408" y="440" as="sourcePoint" />
             <mxPoint x="408.96000000000004" y="334" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="144" y="220" />
-              <mxPoint x="230" y="140" />
+              <mxPoint x="160" y="250" />
+              <mxPoint x="190" y="190" />
+              <mxPoint x="240" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4hsJ4999k-jfnIjJFVoq-5" value="거절" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="160" width="33.5" height="25" as="geometry" />
+          <mxGeometry x="160.25" y="174.5" width="33.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="4hsJ4999k-jfnIjJFVoq-6" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NO5nKOySht2xLh2tTlxy-21" target="NO5nKOySht2xLh2tTlxy-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -128,6 +132,18 @@
         </mxCell>
         <mxCell id="4hsJ4999k-jfnIjJFVoq-13" value="&lt;p style=&quot;line-height: 100%&quot;&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;임시 저장 : 영업팀에서만 사용됨.&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;영업자 승인 : 영업팀에서 승인 요청한 상태 / 조건 승인 이면 본부장, 대표 flow에서 승인을 해야하는 상태. 없는 경우 고객에서 내용 확인을 요청함.&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;조건부 승인 : 본부장, 대표 단계에서 승인이 난 상태. 마찬가지로 고객에게 내용 확인 요청이 됨.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;고객 승인 : 고객이 계약 내용을 확인한 상태 / 고객지원팀에서 마지막으로 확인하여 계약 완료로 변경할 수 있음.&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;신청 완료 : 고객지원팀에서 확인한 상태(QC 승인)로 b2b 또는 b2c가 생성된 상태.&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="74" width="320" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="4hsJ4999k-jfnIjJFVoq-15" value="대표" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119.38" y="396.25" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4hsJ4999k-jfnIjJFVoq-16" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NO5nKOySht2xLh2tTlxy-20" target="4hsJ4999k-jfnIjJFVoq-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="153.63" y="398.75" as="sourcePoint" />
+            <mxPoint x="211.63" y="258.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4hsJ4999k-jfnIjJFVoq-17" value="승인&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%EC%A1%B0%EA%B1%B4%20%EC%8A%B9%EC%9D%B8%20%EC%97%86%EC%9D%8C%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22411%22%20y%3D%22184%22%20width%3D%2290%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="119.38" y="354.25" width="46" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
